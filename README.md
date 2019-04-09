@@ -25,9 +25,8 @@ We have to arrange the numbers in the matrix in 2 possible ways: <br>
 
 <p align="center">
 	 Solution State Space Tree Would Be Like <br>
-
-	![alt State Space tree](puzzle-1.jpg)
 </p>
+ ![alt State Space tree](puzzle-1.jpg)
 
 
 ### Data Structure Used:
