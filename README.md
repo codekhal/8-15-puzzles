@@ -23,9 +23,6 @@ We have to arrange the numbers in the matrix in 2 possible ways: <br>
 2). Arrange the rows of the matrix in the form odd numbers in one row and even numbers in other rows.<br> <br>
 
 
-<p align="center">
-	 Solution State Space Tree Would Be Like <br>
-</p>
  ![alt State Space tree](puzzle-1.jpg)
 
 
