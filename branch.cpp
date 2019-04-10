@@ -1,5 +1,6 @@
  
 #include <bits/stdc++.h> 
+#include <iostream.h>
 using namespace std; 
 #define N 3 
 struct Node 
