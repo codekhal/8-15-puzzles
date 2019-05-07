@@ -1,6 +1,6 @@
 # 8-15-puzzles
 
-A puzzle solver using branch and bound in C++
+A puzzle solver using A* Algorithm in C++
 
 
 ## To run on your local machine
