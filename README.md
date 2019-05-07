@@ -9,7 +9,7 @@ Step 1: `git clone https://github.com/codekhal/8-15-puzzles.git`
 <br> <br>
 Step 2: `cd 8-15-puzzles`
 <br> <br>
-Step 3: Open project in any of the Text editors. <br> Go to main.cpp then run build `g++ -o main.cpp`
+Step 3: Open project in any of the Text editors. <br> Go to main.cpp then run build `g++ main.cpp`
 <br> <br>
 Step 4: Finally compile the code through `./a.out`
 <br> <br>
