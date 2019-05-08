@@ -1,4 +1,4 @@
-	// Program for N*N -1 puzzle algorithm using Branch and Bound 
+	// Branch and Bound 
 	#include <bits/stdc++.h> 
 	using namespace std; 
 	#define N 3 
@@ -18,8 +18,8 @@
 		for (int i = 0; i < N; i++) 
 		{ 
 			for (int j = 0; j < N; j++) 
-				printf("%d ", mat[i][j]); 
-			printf("\n"); 
+				cout<<mat[i][j]; 
+			cout<<endl; 
 		} 
 	} 
 
@@ -67,7 +67,7 @@
 		printRoute(root->parent); 
 		print(root->mat); 
 
-		printf("\n"); 
+		cout<<endl; 
 	} 
 
 	struct comp 
