@@ -24,6 +24,8 @@ struct Node
         parent=node;
     }
 }start,*process;
+
+
 int f,i,j,ctr,siz,original_h,exchanged_h,maxi,maxj,linear_horizontal_conflicts,linear_vertical_conflicts;
 struct compareNode                                                                  //Custom Comparison for Node min(f) and reprioritizing
 {
